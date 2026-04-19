@@ -1,0 +1,5 @@
+{
+  "port": "8080",
+  "timeout": "30.5",
+  "max_retries": "3"
+}
